@@ -4,7 +4,7 @@
 ##====================================================================##
 ##                                                                    ##
 ## SOFTWARE: CHAMELEONPY.                                             ##
-## AUTHOR: Charles Dantas (chameleon)                                 ##
+## AUTHOR: Charles Dantas (ccod)                                 ##
 ## VERSION: 1.0                                                       ##
 ## CREATION DATE: 06/01/2020                                          ##
 ##                                                                    ##
